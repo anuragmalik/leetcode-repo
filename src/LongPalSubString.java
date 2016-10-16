@@ -1,3 +1,4 @@
+
 public class LongPalSubString {
 
 	public String longPalSubStr(String s) {
